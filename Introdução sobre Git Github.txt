@@ -1,0 +1,1 @@
+Git Bash é um console para extensão do git
